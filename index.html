@@ -11,7 +11,13 @@
 
 
    <script>
-    
+    let url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSKaeTMzC3pzvVgSUs6pnN0fS5tckz-x2SsHw4Uj0-0YXr7MQ5VEC0voCVPhi5-Mdv9Xz-oczoRyDc4/pub?output=csv";
+    d3.csv(url).then(data=>{
+        console.log(data);
+        d3.select('#main').selectAll('div').data(data).enter().append('div')
+            .attr('class','exo')
+            .html('TOTO');
+    })
 
    </script>
 </body>
