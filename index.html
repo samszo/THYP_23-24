@@ -17,7 +17,12 @@
         d3.select('#main').selectAll('div').data(data).enter().append('div')
             .attr('class','exo')
             .html(d=>d['Compte Github'])
-            .on('click',openLink);
+            .on('click',openLink)
+            .append('a')
+                .attr('href',d=>d['adresse du formulaire'])
+                .attr('target','_blanck')
+                .text('formulaire')
+            ;
     })
 
     function openLink(e,d){
