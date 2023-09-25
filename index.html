@@ -16,9 +16,13 @@
         console.log(data);
         d3.select('#main').selectAll('div').data(data).enter().append('div')
             .attr('class','exo')
-            .html('TOTO');
+            .html(d=>d['Compte Github'])
+            .on('click',openLink);
     })
 
+    function openLink(e,d){
+        console.log(d);
+    }
    </script>
 </body>
 </html>
