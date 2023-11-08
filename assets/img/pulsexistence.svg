@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 296.99999"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="pulsexistence.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2">Pulsations existentielles</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#1e2227"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#455050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.82699502"
+     inkscape:cx="395.40746"
+     inkscape:cy="600.97097"
+     inkscape:window-width="1792"
+     inkscape:window-height="981"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showborder="false"
+     showguides="true">
+    <sodipodi:guide
+       position="39.058593,176.73046"
+       orientation="1,0"
+       id="guide31"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="168.99609,190.26562"
+       orientation="1,0"
+       id="guide32"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path33" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       id="scene_1"
+       width="205.34766"
+       height="245.17969"
+       x="1.9335936"
+       y="36.351562" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:4.7625, 4.7625;stroke-dashoffset:0;paint-order:markers stroke fill"
+       id="rect1"
+       width="148.5"
+       height="70.474571"
+       x="29.970703"
+       y="45.033688" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:10;paint-order:markers stroke fill"
+       id="path2"
+       cx="104.2207"
+       cy="212.30859"
+       rx="98.419922"
+       ry="66.902344" />
+    <g
+       id="path1"
+       transform="rotate(90,30.238392,137.0782)">
+      <path
+         style="color:#000000;fill:#000000;stroke-linejoin:round;stroke-miterlimit:10;-inkscape-stroke:none;paint-order:markers stroke fill"
+         d="M 43.914062,22.423828 9.0390625,42.558594 A 0.26460996,0.26460996 0 0 0 8.90625,42.789062 v 40.269532 a 0.26460996,0.26460996 0 0 0 0.1328125,0.230468 L 43.914062,103.42383 a 0.26460996,0.26460996 0 0 0 0.265625,0 l 34.875,-20.134768 A 0.26460996,0.26460996 0 0 0 79.1875,83.058594 V 42.789062 a 0.26460996,0.26460996 0 0 0 -0.132813,-0.230468 l -34.875,-20.134766 a 0.26460996,0.26460996 0 0 0 -0.265625,0 z m 0.132813,0.535156 34.611328,19.982422 V 82.90625 L 44.046875,102.88867 9.4355469,82.90625 V 42.941406 Z"
+         id="path37" />
+      <path
+         style="color:#000000;fill:#ffffff;stroke-linejoin:round;stroke-miterlimit:10;-inkscape-stroke:none;paint-order:markers stroke fill"
+         d="M 44.046613,103.19492 9.1707415,83.05943 9.1707404,42.788136 44.046611,22.652542 l 34.875871,20.135593 10e-7,40.271186 z"
+         id="path38"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       id="rect2"
+       width="41.765621"
+       height="17.789062"
+       x="39.058594"
+       y="75.410156" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="47.309139"
+       y="88.030548"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="47.309139"
+         y="88.030548">crible</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       id="rect3"
+       width="41.765621"
+       height="17.789062"
+       x="126.45703"
+       y="75.410156" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="134.70758"
+       y="88.030548"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="134.70758"
+         y="88.030548">crible</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="76.895821"
+       y="56.847656"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="76.895821"
+         y="56.847656">physicalités</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="89.825226"
+       y="154.52187"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="89.825226"
+         y="154.52187">actant</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="81.916168"
+       y="244.12242"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="81.916168"
+         y="244.12242">raisonner</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="24.627893"
+       y="211.25027"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="24.627893"
+         y="211.25027">agir</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="141.35818"
+       y="212.30188"
+       id="text31"><tspan
+         sodipodi:role="line"
+         id="tspan31"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="141.35818"
+         y="212.30188">discerner</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DartArrow)"
+       d="m 190,190 v 40"
+       id="path32"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
+       d="m 20.230469,233.30729 v -40"
+       id="path34"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g35"
+       transform="translate(-0.06535338,8.9958336)">
+      <path
+         sodipodi:type="spiral"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+         id="path6"
+         sodipodi:cx="82.371094"
+         sodipodi:cy="227.77734"
+         sodipodi:expansion="1"
+         sodipodi:revolution="3"
+         sodipodi:radius="10.724039"
+         sodipodi:argument="-18.402037"
+         sodipodi:t0="0"
+         d="m 82.371094,227.77734 c 0.484736,0.23268 -0.07449,0.76821 -0.386718,0.80567 -0.846128,0.1015 -1.325539,-0.85952 -1.224611,-1.5791 0.180537,-1.28717 1.598344,-1.92868 2.771483,-1.64356 1.721629,0.41842 2.544905,2.34547 2.062503,3.96387 -0.642965,2.15707 -3.095305,3.16643 -5.156248,2.48145 -2.593486,-0.86198 -3.790635,-3.84639 -2.900395,-6.34864 1.078199,-3.03055 4.598153,-4.41638 7.541013,-3.31934 3.468058,1.29283 5.043093,5.35035 3.738287,8.7334 -1.506449,3.90586 -6.102827,5.67045 -9.925778,4.15723 -4.343879,-1.71941 -6.298257,-6.85551 -4.576179,-11.11816 1.931911,-4.78205 7.608335,-6.92639 12.310543,-4.99512 5.220341,2.14407 7.554774,8.36127 5.414072,13.50292"
+         transform="translate(20.959607,18.175781)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
+         d="m 113.00802,250.54624 -0.23729,0.50703"
+         id="path35"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 29.887911,69.17822 -10e-7,46.59143 h 148.88672 l 0.12299,-47.373754"
+       id="path36"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="82.497528"
+       y="275.34338"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="82.497528"
+         y="275.34338">intériorité</tspan></text>
+  </g>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:title>Pulsations existentielles</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Samuel Szoniecky</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

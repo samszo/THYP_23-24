@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Bootstrap and D3.js Example</title>
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    </head>
+    <body>
+        <div class="container">
+            <h1>Bootstrap and D3.js Example</h1>
+            <div id="chart"></div>
+        </div>
+
+        <!-- D3.js -->
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+
+        <!-- Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+        <script>
+            // D3.js code goes here
+            var data = [4, 8, 15, 16, 23, 42];
+
+            var svg = d3.select("#chart")
+                .append("svg")
+                .attr("width", 400)
+                .attr("height", 200);
+
+            svg.selectAll("rect")
+                .data(data)
+                .enter()
+                .append("rect")
+                .attr("x", function(d, i) {
+                    return i * 50;
+                })
+                .attr("y", function(d) {
+                    return 200 - d * 5;
+                })
+                .attr("width", 40)
+                .attr("height", function(d) {
+                    return d * 5;
+                })
+                .attr("fill", "steelblue");
+        </script>
+    </body>
+</html>

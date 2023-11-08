@@ -1,0 +1,295 @@
+<svg id="svgGlobaljdcCx" width="819.328125px" height="743.59375px"><g><circle r="241.66796875" cx="409.6640625" cy="501.92578125000006" stroke="white" fill="none"></circle><g id="jdcCxPh" class="jdcPhysiqueG" transform="translate(0,0)"><g id="g_jdcCxPh0" transform="translate(0.328125,0)"><title> niveau : 0
+ nombre : 86
+ complexité : 278
+</title><rect id="rect_jdcCxPh0" fill="#0d0887" fill-opacity="0.8" stroke="white" width="819" height="186"></rect><clipPath id="clip_jdcCxPh0"><use xlink:href="#rect_jdcCxPh0"></use></clipPath><text clip-path="clip_jdcCxPh0"><tspan x="3" y="1.1em" fill="white" stroke="none" fill-opacity="1">niveau : 0</tspan><tspan x="3" y="2em" fill="white" stroke="none" fill-opacity="1">nombre :86</tspan><tspan x="3" y="3.2em" fill="white" stroke="none" fill-opacity="1">complexité :278</tspan></text></g><g id="g_jdcCxPh1" transform="translate(744.328125,1)"><title> niveau : 1
+ nombre : 1
+ complexité : 1
+</title><rect id="rect_jdcCxPh1" fill="#0d0887" fill-opacity="0.8" stroke="white" width="74" height="3"></rect><clipPath id="clip_jdcCxPh1"><use xlink:href="#rect_jdcCxPh1"></use></clipPath><text clip-path="clip_jdcCxPh1"><tspan x="3" y="1.1em" fill="white" stroke="none" fill-opacity="1">niveau : 1</tspan><tspan x="3" y="2em" fill="white" stroke="none" fill-opacity="1">nombre :1</tspan><tspan x="3" y="3.2em" fill="white" stroke="none" fill-opacity="1">complexité :1</tspan></text></g><g id="g_jdcCxPh2" transform="translate(744.328125,5)"><title> niveau : 2
+ nombre : 25
+ complexité : 50
+</title><rect id="rect_jdcCxPh2" fill="#5c01a6" fill-opacity="0.8" stroke="white" width="74" height="180"></rect><clipPath id="clip_jdcCxPh2"><use xlink:href="#rect_jdcCxPh2"></use></clipPath><text clip-path="clip_jdcCxPh2"><tspan x="3" y="1.1em" fill="white" stroke="none" fill-opacity="1">niveau : 2</tspan><tspan x="3" y="2em" fill="white" stroke="none" fill-opacity="1">nombre :25</tspan><tspan x="3" y="3.2em" fill="white" stroke="none" fill-opacity="1">complexité :50</tspan></text></g><g id="g_jdcCxPh3" transform="translate(500.328125,1)"><title> niveau : 3
+ nombre : 30
+ complexité : 90
+</title><rect id="rect_jdcCxPh3" fill="#9c179e" fill-opacity="0.8" stroke="white" width="243" height="99"></rect><clipPath id="clip_jdcCxPh3"><use xlink:href="#rect_jdcCxPh3"></use></clipPath><text clip-path="clip_jdcCxPh3"><tspan x="3" y="1.1em" fill="white" stroke="none" fill-opacity="1">niveau : 3</tspan><tspan x="3" y="2em" fill="white" stroke="none" fill-opacity="1">nombre :30</tspan><tspan x="3" y="3.2em" fill="white" stroke="none" fill-opacity="1">complexité :90</tspan></text></g><g id="g_jdcCxPh4" transform="translate(500.328125,101)"><title> niveau : 4
+ nombre : 19
+ complexité : 76
+</title><rect id="rect_jdcCxPh4" fill="#cc4778" fill-opacity="0.8" stroke="white" width="243" height="84"></rect><clipPath id="clip_jdcCxPh4"><use xlink:href="#rect_jdcCxPh4"></use></clipPath><text clip-path="clip_jdcCxPh4"><tspan x="3" y="1.1em" fill="white" stroke="none" fill-opacity="1">niveau : 4</tspan><tspan x="3" y="2em" fill="white" stroke="none" fill-opacity="1">nombre :19</tspan><tspan x="3" y="3.2em" fill="white" stroke="none" fill-opacity="1">complexité :76</tspan></text></g><g id="g_jdcCxPh5" transform="translate(420.328125,1)"><title> niveau : 5
+ nombre : 6
+ complexité : 30
+</title><rect id="rect_jdcCxPh5" fill="#ed7953" fill-opacity="0.8" stroke="white" width="79" height="102"></rect><clipPath id="clip_jdcCxPh5"><use xlink:href="#rect_jdcCxPh5"></use></clipPath><text clip-path="clip_jdcCxPh5"><tspan x="3" y="1.1em" fill="white" stroke="none" fill-opacity="1">niveau : 5</tspan><tspan x="3" y="2em" fill="white" stroke="none" fill-opacity="1">nombre :6</tspan><tspan x="3" y="3.2em" fill="white" stroke="none" fill-opacity="1">complexité :30</tspan></text></g><g id="g_jdcCxPh6" transform="translate(420.328125,104)"><title> niveau : 6
+ nombre : 4
+ complexité : 24
+</title><rect id="rect_jdcCxPh6" fill="#fdb42f" fill-opacity="0.8" stroke="white" width="79" height="81"></rect><clipPath id="clip_jdcCxPh6"><use xlink:href="#rect_jdcCxPh6"></use></clipPath><text clip-path="clip_jdcCxPh6"><tspan x="3" y="1.1em" fill="white" stroke="none" fill-opacity="1">niveau : 6</tspan><tspan x="3" y="2em" fill="white" stroke="none" fill-opacity="1">nombre :4</tspan><tspan x="3" y="3.2em" fill="white" stroke="none" fill-opacity="1">complexité :24</tspan></text></g><g id="g_jdcCxPh7" transform="translate(410.328125,1)"><title> niveau : 7
+ nombre : 1
+ complexité : 7
+</title><rect id="rect_jdcCxPh7" fill="#f0f921" fill-opacity="0.8" stroke="white" width="9" height="184"></rect><clipPath id="clip_jdcCxPh7"><use xlink:href="#rect_jdcCxPh7"></use></clipPath><text clip-path="clip_jdcCxPh7"><tspan x="3" y="1.1em" fill="white" stroke="none" fill-opacity="1">niveau : 7</tspan><tspan x="3" y="2em" fill="white" stroke="none" fill-opacity="1">nombre :1</tspan><tspan x="3" y="3.2em" fill="white" stroke="none" fill-opacity="1">complexité :7</tspan></text></g></g><g id="jdcCxAct" class="jdcConceptG" transform="translate(316.71484375,247.86458333333334)" text-anchor="middle" style="font: 10px sans-serif;"><g class="jdcConcept" id="g_jdcCxAct0" transform="translate(93.94921875,93.94921875)"><polygon points="156.94921875,0 78.47460937500001,-135.92201054162092 -78.47460937499997,-135.92201054162095 -156.94921875,-1.9220735837086524e-14 -78.47460937500007,135.9220105416209 78.47460937500001,135.92201054162092" fill="#0d0887" stroke="white"></polygon><clipPath id="clipjdcCxAct_0"><use xlink:href="#conceptC_jdcCxAct_0"></use></clipPath><text clip-path="clipjdcCxAct_0" transform="translate(0,102.94921875)"><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 0</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :22</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :61</tspan></text><title> niveau : 0
+ nombre : 22
+ complexité : 61
+</title></g><g class="jdcConcept" id="g_jdcCxAct1" transform="translate(92.50096665007271,85.12973825819633)"><polygon points="8.355155339809588,0 4.177577669904795,-7.235776776840307 -4.177577669904792,-7.235776776840308 -8.355155339809588,-1.0232114243276728e-15 -4.177577669904798,7.235776776840305 4.177577669904795,7.235776776840307" fill="#0d0887" stroke="white"></polygon><clipPath id="clipjdcCxAct_1"><use xlink:href="#conceptC_jdcCxAct_1"></use></clipPath><text clip-path="clipjdcCxAct_1" transform=""><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 1</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :1</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :1</tspan></text><title> niveau : 1
+ nombre : 1
+ complexité : 1
+</title></g><g class="jdcConcept" id="g_jdcCxAct2" transform="translate(139.09160083157965,85.12973825819633)"><polygon points="35.44792199187811,0 17.72396099593906,-30.69880095633552 -17.72396099593905,-30.698800956335525 -35.44792199187811,-4.34111842037786e-15 -17.72396099593907,30.698800956335514 17.72396099593906,30.69880095633552" fill="#5c01a6" stroke="white"></polygon><clipPath id="clipjdcCxAct_2"><use xlink:href="#conceptC_jdcCxAct_2"></use></clipPath><text clip-path="clipjdcCxAct_2" transform=""><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 2</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :9</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :18</tspan></text><title> niveau : 2
+ nombre : 9
+ complexité : 18
+</title></g><g class="jdcConcept" id="g_jdcCxAct3" transform="translate(76.19349217897161,137.19290382408835)"><polygon points="43.41466066104184,0 21.707330330520925,-37.598199029143146 -21.70733033052091,-37.598199029143146 -43.41466066104184,-5.316762521461341e-15 -21.70733033052094,37.59819902914313 21.707330330520925,37.598199029143146" fill="#9c179e" stroke="white"></polygon><clipPath id="clipjdcCxAct_3"><use xlink:href="#conceptC_jdcCxAct_3"></use></clipPath><text clip-path="clipjdcCxAct_3" transform=""><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 3</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :9</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :27</tspan></text><title> niveau : 3
+ nombre : 9
+ complexité : 27
+</title></g><g class="jdcConcept" id="g_jdcCxAct4" transform="translate(91.72225102400635,57.28760319407861)"><polygon points="16.710310679619177,0 8.35515533980959,-14.471553553680614 -8.355155339809585,-14.471553553680616 -16.710310679619177,-2.0464228486553457e-15 -8.355155339809595,14.47155355368061 8.35515533980959,14.471553553680614" fill="#cc4778" stroke="white"></polygon><clipPath id="clipjdcCxAct_4"><use xlink:href="#conceptC_jdcCxAct_4"></use></clipPath><text clip-path="clipjdcCxAct_4" transform=""><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 4</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :1</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :4</tspan></text><title> niveau : 4
+ nombre : 1
+ complexité : 4
+</title></g><g class="jdcConcept" id="g_jdcCxAct5" transform="translate(140.89865879368153,142.01921961826537)"><polygon points="18.682695302384595,0 9.341347651192299,-16.179688743029253 -9.341347651192294,-16.179688743029256 -18.682695302384595,-2.2879703001510585e-15 -9.341347651192306,16.17968874302925 9.341347651192299,16.179688743029253" fill="#ed7953" stroke="white"></polygon><clipPath id="clipjdcCxAct_5"><use xlink:href="#conceptC_jdcCxAct_5"></use></clipPath><text clip-path="clipjdcCxAct_5" transform=""><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 5</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :1</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :5</tspan></text><title> niveau : 5
+ nombre : 1
+ complexité : 5
+</title></g><g class="jdcConcept" id="g_jdcCxAct6" transform="translate(120.42149374504879,29.476569968145583)"><polygon points="20.465867304223682,0 10.232933652111843,-17.723960995939056 -10.232933652111836,-17.723960995939056 -20.465867304223682,-2.5063458885892e-15 -10.23293365211185,17.72396099593905 10.232933652111843,17.723960995939056" fill="#fdb42f" stroke="white"></polygon><clipPath id="clipjdcCxAct_6"><use xlink:href="#conceptC_jdcCxAct_6"></use></clipPath><text clip-path="clipjdcCxAct_6" transform=""><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 6</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :1</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :6</tspan></text><title> niveau : 6
+ nombre : 1
+ complexité : 6
+</title></g></g><g id="jdcCxCpt" class="jdcConceptG" transform="translate(316.71484375,501.92578125000006)" text-anchor="middle" style="font: 10px sans-serif;"><g class="jdcConcept" id="g_jdcCxCpt0" transform="translate(93.94921875,93.94921875)"><circle r="92.94921875" id="conceptC_jdcCxCpt_0" fill-opacity="0.8" stroke="white" fill="#0d0887"></circle><clipPath id="clipjdcCxCpt_0"><use xlink:href="#conceptC_jdcCxCpt_0"></use></clipPath><text clip-path="clipjdcCxCpt_0" transform="translate(0,82.94921875)"><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 0</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :92</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :289</tspan></text><title> niveau : 0
+ nombre : 92
+ complexité : 289
+</title></g><g class="jdcConcept" id="g_jdcCxCpt2" transform="translate(50.85129164157126,77.19721295570896)"><circle r="32.87322935284053" id="conceptC_jdcCxCpt_2" fill-opacity="0.8" stroke="white" fill="#5c01a6"></circle><clipPath id="clipjdcCxCpt_2"><use xlink:href="#conceptC_jdcCxCpt_2"></use></clipPath><text clip-path="clipjdcCxCpt_2" transform=""><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 2</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :28</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :56</tspan></text><title> niveau : 2
+ nombre : 28
+ complexité : 56
+</title></g><g class="jdcConcept" id="g_jdcCxCpt3" transform="translate(132.82099780810637,77.19721295570896)"><circle r="46.28175784131034" id="conceptC_jdcCxCpt_3" fill-opacity="0.8" stroke="white" fill="#9c179e"></circle><clipPath id="clipjdcCxCpt_3"><use xlink:href="#conceptC_jdcCxCpt_3"></use></clipPath><text clip-path="clipjdcCxCpt_3" transform=""><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 3</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :37</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :111</tspan></text><title> niveau : 3
+ nombre : 37
+ complexité : 111
+</title></g><g class="jdcConcept" id="g_jdcCxCpt4" transform="translate(78.804298791007,144.59293276913274)"><circle r="37.2747384253735" id="conceptC_jdcCxCpt_4" fill-opacity="0.8" stroke="white" fill="#cc4778"></circle><clipPath id="clipjdcCxCpt_4"><use xlink:href="#conceptC_jdcCxCpt_4"></use></clipPath><text clip-path="clipjdcCxCpt_4" transform=""><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 4</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :18</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :72</tspan></text><title> niveau : 4
+ nombre : 18
+ complexité : 72
+</title></g><g class="jdcConcept" id="g_jdcCxCpt5" transform="translate(81.30875788370811,28.246929178798055)"><circle r="21.964350256280312" id="conceptC_jdcCxCpt_5" fill-opacity="0.8" stroke="white" fill="#ed7953"></circle><clipPath id="clipjdcCxCpt_5"><use xlink:href="#conceptC_jdcCxCpt_5"></use></clipPath><text clip-path="clipjdcCxCpt_5" transform=""><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 5</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :5</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :25</tspan></text><title> niveau : 5
+ nombre : 5
+ complexité : 25
+</title></g><g class="jdcConcept" id="g_jdcCxCpt6" transform="translate(137.53086710481867,144.76711031195347)"><circle r="18.637369212686746" id="conceptC_jdcCxCpt_6" fill-opacity="0.8" stroke="white" fill="#fdb42f"></circle><clipPath id="clipjdcCxCpt_6"><use xlink:href="#conceptC_jdcCxCpt_6"></use></clipPath><text clip-path="clipjdcCxCpt_6" transform=""><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 6</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :3</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :18</tspan></text><title> niveau : 6
+ nombre : 3
+ complexité : 18
+</title></g><g class="jdcConcept" id="g_jdcCxCpt7" transform="translate(116.44381208568339,18.728632906455772)"><circle r="11.622441697447105" id="conceptC_jdcCxCpt_7" fill-opacity="0.8" stroke="white" fill="#f0f921"></circle><clipPath id="clipjdcCxCpt_7"><use xlink:href="#conceptC_jdcCxCpt_7"></use></clipPath><text clip-path="clipjdcCxCpt_7" transform=""><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="-0.7em">n : 7</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="0.30000000000000004em">nb :1</tspan><tspan fill="white" stroke="none" fill-opacity="1" x="0" y="1.3em">c :7</tspan></text><title> niveau : 7
+ nombre : 1
+ complexité : 7
+</title></g></g><g id="jdcCxRpt" class="jdcRapportG" text-anchor="middle" style="font: 10px sans-serif;" transform="translate(-453.984375,-75.40625)"><g class="jdcRapport" id="g_jdcCxRpt_1_Physique_Concept_properties"><path d="M1249.4765625,132.60626220703125L864.3203125,417.2200622558594L864.3203125,578.33203125" style="stroke: rgb(13, 8, 135); stroke-width: 24; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 1
+ nombre : 24
+ complexité : 24
+ sujet : Physique
+ object : Concept
+ prédicat : properties
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_1_Physique_Physique_values"><path d="M1249.4765625,132.60626220703125L864.3203125,417.2200622558594L1249.4765625,132.60626220703125" style="stroke: rgb(13, 8, 135); stroke-width: 24; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 1
+ nombre : 24
+ complexité : 24
+ sujet : Physique
+ object : Physique
+ prédicat : values
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_1_Physique_Actant_owner"><path d="M1249.4765625,132.60626220703125L864.3203125,417.2200622558594L863.0869140625,407.90057373046875" style="stroke: rgb(13, 8, 135); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 1
+ nombre : 1
+ complexité : 1
+ sujet : Physique
+ object : Actant
+ prédicat : owner
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_1_Physique_Concept_schema:programmingLanguage"><path d="M1249.4765625,132.60626220703125L864.3203125,417.2200622558594L821.2223510742188,621.656005859375" style="stroke: rgb(13, 8, 135); stroke-width: 4; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 1
+ nombre : 4
+ complexité : 4
+ sujet : Physique
+ object : Concept
+ prédicat : schema:programmingLanguage
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_2_Concept_Concept_properties"><path d="M821.2223510742188,621.656005859375L864.3203125,417.2200622558594L864.3203125,578.33203125" style="stroke: rgb(92, 1, 166); stroke-width: 20; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 2
+ nombre : 20
+ complexité : 40
+ sujet : Concept
+ object : Concept
+ prédicat : properties
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_2_Concept_Physique_values"><path d="M821.2223510742188,621.656005859375L864.3203125,417.2200622558594L1254.0546875,260.40625" style="stroke: rgb(92, 1, 166); stroke-width: 20; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 2
+ nombre : 20
+ complexité : 40
+ sujet : Concept
+ object : Physique
+ prédicat : values
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_2_Concept_Actant_owner"><path d="M821.2223510742188,621.656005859375L864.3203125,417.2200622558594L909.4627075195312,408.40057373046875" style="stroke: rgb(92, 1, 166); stroke-width: 4; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 2
+ nombre : 4
+ complexité : 8
+ sujet : Concept
+ object : Actant
+ prédicat : owner
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_2_Concept_Concept_skos:broader"><path d="M821.2223510742188,621.656005859375L864.3203125,417.2200622558594L903.1921081542969,608.2474975585938" style="stroke: rgb(92, 1, 166); stroke-width: 8; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 2
+ nombre : 8
+ complexité : 16
+ sujet : Concept
+ object : Concept
+ prédicat : skos:broader
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_3_Concept_Concept_properties"><path d="M903.1921081542969,608.2474975585938L864.3203125,417.2200622558594L864.3203125,578.33203125" style="stroke: rgb(156, 23, 158); stroke-width: 16; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 3
+ nombre : 16
+ complexité : 48
+ sujet : Concept
+ object : Concept
+ prédicat : properties
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_3_Concept_Physique_values"><path d="M903.1921081542969,608.2474975585938L864.3203125,417.2200622558594L1075.484375,175.40625" style="stroke: rgb(156, 23, 158); stroke-width: 16; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 3
+ nombre : 16
+ complexité : 48
+ sujet : Concept
+ object : Physique
+ prédicat : values
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_3_Concept_Actant_owner"><path d="M903.1921081542969,608.2474975585938L864.3203125,417.2200622558594L846.5645751953125,460.4637451171875" style="stroke: rgb(156, 23, 158); stroke-width: 8; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 3
+ nombre : 8
+ complexité : 24
+ sujet : Concept
+ object : Actant
+ prédicat : owner
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_1_Physique_Actant_schema:provider"><path d="M1249.4765625,132.60626220703125L864.3203125,417.2200622558594L909.4627075195312,408.40057373046875" style="stroke: rgb(13, 8, 135); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 1
+ nombre : 1
+ complexité : 1
+ sujet : Physique
+ object : Actant
+ prédicat : schema:provider
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_2_Actant_Concept_properties"><path d="M909.4627075195312,408.40057373046875L864.3203125,417.2200622558594L864.3203125,578.33203125" style="stroke: rgb(92, 1, 166); stroke-width: 7; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 2
+ nombre : 7
+ complexité : 14
+ sujet : Actant
+ object : Concept
+ prédicat : properties
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_2_Actant_Physique_values"><path d="M909.4627075195312,408.40057373046875L864.3203125,417.2200622558594L1254.0546875,260.40625" style="stroke: rgb(92, 1, 166); stroke-width: 7; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 2
+ nombre : 7
+ complexité : 14
+ sujet : Actant
+ object : Physique
+ prédicat : values
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_2_Actant_Actant_owner"><path d="M909.4627075195312,408.40057373046875L864.3203125,417.2200622558594L909.4627075195312,408.40057373046875" style="stroke: rgb(92, 1, 166); stroke-width: 2; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 2
+ nombre : 2
+ complexité : 4
+ sujet : Actant
+ object : Actant
+ prédicat : owner
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_2_Actant_Physique_uri"><path d="M909.4627075195312,408.40057373046875L864.3203125,417.2200622558594L1254.0546875,260.40625" style="stroke: rgb(92, 1, 166); stroke-width: 2; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 2
+ nombre : 2
+ complexité : 4
+ sujet : Actant
+ object : Physique
+ prédicat : uri
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_1_Physique_Physique_dcterms:isPartOf"><path d="M1249.4765625,132.60626220703125L864.3203125,417.2200622558594L1254.0546875,260.40625" style="stroke: rgb(13, 8, 135); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 1
+ nombre : 1
+ complexité : 1
+ sujet : Physique
+ object : Physique
+ prédicat : dcterms:isPartOf
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_2_Physique_Concept_properties"><path d="M1254.0546875,260.40625L864.3203125,417.2200622558594L864.3203125,578.33203125" style="stroke: rgb(92, 1, 166); stroke-width: 2; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 2
+ nombre : 2
+ complexité : 4
+ sujet : Physique
+ object : Concept
+ prédicat : properties
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_2_Physique_Physique_values"><path d="M1254.0546875,260.40625L864.3203125,417.2200622558594L1254.0546875,260.40625" style="stroke: rgb(92, 1, 166); stroke-width: 2; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 2
+ nombre : 2
+ complexité : 4
+ sujet : Physique
+ object : Physique
+ prédicat : values
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_2_Physique_Actant_owner"><path d="M1254.0546875,260.40625L864.3203125,417.2200622558594L909.4627075195312,408.40057373046875" style="stroke: rgb(92, 1, 166); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 2
+ nombre : 1
+ complexité : 2
+ sujet : Physique
+ object : Actant
+ prédicat : owner
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_2_Physique_Physique_dcterms:isPartOf"><path d="M1254.0546875,260.40625L864.3203125,417.2200622558594L1075.484375,175.40625" style="stroke: rgb(92, 1, 166); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 2
+ nombre : 1
+ complexité : 2
+ sujet : Physique
+ object : Physique
+ prédicat : dcterms:isPartOf
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_3_Physique_Concept_properties"><path d="M1075.484375,175.40625L864.3203125,417.2200622558594L864.3203125,578.33203125" style="stroke: rgb(156, 23, 158); stroke-width: 2; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 3
+ nombre : 2
+ complexité : 6
+ sujet : Physique
+ object : Concept
+ prédicat : properties
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_3_Physique_Physique_values"><path d="M1075.484375,175.40625L864.3203125,417.2200622558594L1075.484375,175.40625" style="stroke: rgb(156, 23, 158); stroke-width: 2; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 3
+ nombre : 2
+ complexité : 6
+ sujet : Physique
+ object : Physique
+ prédicat : values
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_3_Physique_Actant_owner"><path d="M1075.484375,175.40625L864.3203125,417.2200622558594L846.5645751953125,460.4637451171875" style="stroke: rgb(156, 23, 158); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 3
+ nombre : 1
+ complexité : 3
+ sujet : Physique
+ object : Actant
+ prédicat : owner
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_3_Physique_Physique_dcterms:isPartOf"><path d="M1075.484375,175.40625L864.3203125,417.2200622558594L1075.484375,260.40625" style="stroke: rgb(156, 23, 158); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 3
+ nombre : 1
+ complexité : 3
+ sujet : Physique
+ object : Physique
+ prédicat : dcterms:isPartOf
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_4_Physique_Concept_properties"><path d="M1075.484375,260.40625L864.3203125,417.2200622558594L864.3203125,578.33203125" style="stroke: rgb(204, 71, 120); stroke-width: 5; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 4
+ nombre : 5
+ complexité : 20
+ sujet : Physique
+ object : Concept
+ prédicat : properties
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_4_Physique_Physique_values"><path d="M1075.484375,260.40625L864.3203125,417.2200622558594L1075.484375,260.40625" style="stroke: rgb(204, 71, 120); stroke-width: 5; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 4
+ nombre : 5
+ complexité : 20
+ sujet : Physique
+ object : Physique
+ prédicat : values
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_4_Physique_Actant_owner"><path d="M1075.484375,260.40625L864.3203125,417.2200622558594L862.0933532714844,380.0584259033203" style="stroke: rgb(204, 71, 120); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 4
+ nombre : 1
+ complexité : 4
+ sujet : Physique
+ object : Actant
+ prédicat : owner
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_4_Physique_Physique_dcterms:isPartOf"><path d="M1075.484375,260.40625L864.3203125,417.2200622558594L930.0546875,178.40625" style="stroke: rgb(204, 71, 120); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 4
+ nombre : 1
+ complexité : 4
+ sujet : Physique
+ object : Physique
+ prédicat : dcterms:isPartOf
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_5_Physique_Concept_properties"><path d="M930.0546875,178.40625L864.3203125,417.2200622558594L864.3203125,578.33203125" style="stroke: rgb(237, 121, 83); stroke-width: 3; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 5
+ nombre : 3
+ complexité : 15
+ sujet : Physique
+ object : Concept
+ prédicat : properties
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_5_Physique_Physique_values"><path d="M930.0546875,178.40625L864.3203125,417.2200622558594L930.0546875,178.40625" style="stroke: rgb(237, 121, 83); stroke-width: 3; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 5
+ nombre : 3
+ complexité : 15
+ sujet : Physique
+ object : Physique
+ prédicat : values
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_5_Physique_Actant_owner"><path d="M930.0546875,178.40625L864.3203125,417.2200622558594L911.2697448730469,465.2900390625" style="stroke: rgb(237, 121, 83); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 5
+ nombre : 1
+ complexité : 5
+ sujet : Physique
+ object : Actant
+ prédicat : owner
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_5_Physique_Physique_dcterms:isPartOf"><path d="M930.0546875,178.40625L864.3203125,417.2200622558594L930.0546875,260.40625" style="stroke: rgb(237, 121, 83); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 5
+ nombre : 1
+ complexité : 5
+ sujet : Physique
+ object : Physique
+ prédicat : dcterms:isPartOf
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_6_Physique_Concept_properties"><path d="M930.0546875,260.40625L864.3203125,417.2200622558594L864.3203125,578.33203125" style="stroke: rgb(253, 180, 47); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 6
+ nombre : 1
+ complexité : 6
+ sujet : Physique
+ object : Concept
+ prédicat : properties
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_6_Physique_Physique_values"><path d="M930.0546875,260.40625L864.3203125,417.2200622558594L930.0546875,260.40625" style="stroke: rgb(253, 180, 47); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 6
+ nombre : 1
+ complexité : 6
+ sujet : Physique
+ object : Physique
+ prédicat : values
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_6_Physique_Actant_owner"><path d="M930.0546875,260.40625L864.3203125,417.2200622558594L890.7925720214844,352.7474060058594" style="stroke: rgb(253, 180, 47); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 6
+ nombre : 1
+ complexité : 6
+ sujet : Physique
+ object : Actant
+ prédicat : owner
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_1_Physique_Actant_schema:participant"><path d="M1249.4765625,132.60626220703125L864.3203125,417.2200622558594L909.4627075195312,408.40057373046875" style="stroke: rgb(13, 8, 135); stroke-width: 1; stroke-opacity: 0.3; fill: none;" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)"></path><title> niveau : 1
+ nombre : 1
+ complexité : 1
+ sujet : Physique
+ object : Actant
+ prédicat : schema:participant
+</title></g><g class="jdcRapport" id="g_jdcCxRpt_1_Physique_Physique_uri"><path d="M1249.4765625,132.60626220703125L864.3203125,417.2200622558594L1249.4765625,132.60626220703125" marker-start="url(#DotS)" marker-end="url(#Arrow1Send)" marker-mid="url(#SquareS)" style="stroke: rgb(13, 8, 135); stroke-width: 2; stroke-opacity: 0.3; fill: none;"></path><title> niveau : 1
+ nombre : 2
+ complexité : 2
+ sujet : Physique
+ object : Physique
+ prédicat : uri
+</title></g></g><defs><marker id="SquareS" refX="0.0" refY="0.0" orient="auto"><path d="M -5.0,-5.0 L -5.0,5.0 L 5.0,5.0 L 5.0,-5.0 L -5.0,-5.0 z " style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1" transform="scale(0.2)"></path></marker><marker id="DotS" refX="0.0" refY="0.0" orient="auto"><path d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z " style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1" transform="scale(0.2) translate(7.4, 1)"></path></marker><marker id="Arrow1Send" refX="0.0" refY="0.0" orient="auto"><path d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z " style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"></path></marker></defs></g></svg>
