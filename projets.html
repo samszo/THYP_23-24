@@ -97,14 +97,33 @@
         {'label':'Script de création de la base','path': '/bdd/bdd.sql'},
         {'label':'Vocabulaire du projet','path': '/bdd/vocab.ttl'},
         {'label':'Ressource template','path': '/bdd/rt/'},
-        {'label':'Stats OMK','path': 'statsOmk.html'}
-       ],
+        {'label':'Stats OMK','path': '/statsOmk.html'}
+           ],
         ulTravaux = contD.append('ul');
         ulTravaux.selectAll('li').data(listeTravaux).enter().append('li')
             .append('a')
                 .attr('href',d=>'https://'+gh[1]+'.github.io/'+gh[2]+d.path)
                 .attr('target',"_blanck")
                 .text(d=>d.label);
+        contD.append('h4').text('Liste des Resource template');
+        let ulRT = contD.append('ul'),
+        liRT = ulRT.selectAll('li').data(a.omk.rts).enter().append('li');
+            liRT.append('a')
+                .attr('href',d=>d['@id'])
+                .attr('target',"_blanck")
+                .text(d=>d['o:label']);
+            liRT.append('button').attr('type','button').attr('class',"btn btn-danger mx-3")
+              .html('<i class="fa-solid fa-shuffle"></i>')
+              .on('click',putAleaData);                    
+    }
+
+    function putAleaData(e,d){
+      let aleaData = {},propsRt=[];
+      d["o:resource_template_property"].forEach(p=>{
+        let prop = a.omk.getPropTerm(p["o:property"]["o:id"]);
+        aleaData[prop]='blabla';
+      })
+      a.omk.createRessource(aleaData);
     }
 
     function showContributors(contributors){
@@ -132,8 +151,10 @@
       contributors.forEach(c=>{
         //récupère les données du formulaire
         let rs = dataEtu.filter(e=>e['Votre compte GitHub']==c.login);
-        if(!rs.length)console.log('ERREUR : PAS de login GitHub :'+c.login)
-        else c.dataEtu = rs[0];
+        if(!rs.length){
+          console.log('ERREUR : PAS de login GitHub :'+c.login)
+          c.dataEtu = {'Votre prénom':'Pas trouvé','Votre nom':'Pas trouvé','Votre mail':'Pas trouvé','Votre prénom':'N° étudiant'}
+        }else c.dataEtu = rs[0];
       })
     }
 

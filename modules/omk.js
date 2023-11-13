@@ -6,7 +6,7 @@ export class omk {
         this.ident = params.ident ? params.ident : false;
         this.mail = params.mail ? params.mail : false;
         this.api = params.api ? params.api : false;
-        this.vocabs = params.vocabs ? params.vocabs : ['dcterms','foaf','skos','jdc'];
+        this.vocabs = params.vocabs ? params.vocabs : ['dcterms','foaf','skos','jdc','fup8'];
         this.user = false;
         this.props = [];
         this.class = [];
@@ -36,6 +36,9 @@ export class omk {
         }
         this.getPropId = function (t){
             return me.props.filter(prp=>prp['o:term']==t)[0]['o:id'];                        
+        }
+        this.getPropTerm = function (id){
+            return me.props.filter(prp=>prp['o:id']==id)[0]['o:term'];                        
         }
         this.getClass = function (prefix, cb=false){
             let url = me.api+'resource_classes?per_page=1000&vocabulary_prefix='+prefix,                
