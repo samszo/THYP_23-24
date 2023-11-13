@@ -49,12 +49,13 @@
     import {auth} from './modules/auth.js';
     import {pa} from './modules/authParams.js';
 
-    let urlEtu = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSKaeTMzC3pzvVgSUs6pnN0fS5tckz-x2SsHw4Uj0-0YXr7MQ5VEC0voCVPhi5-Mdv9Xz-oczoRyDc4/pub?output=csv",
+    let dataEtu, urlEtu = "https://docs.google.com/spreadsheets/d/e/2PACX-1vS9B7ZVKLzQXaXObvn61IPom-bKhbEZvomwenGs2uhggv6_UPdK4TQEMzPph2gvX9c2fwuAJIhtvICS/pub?gid=553480101&single=true&output=csv",
         urlProj = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR7ig4_uHNJuq1cHL9_34G-Z47uIKSyeM0Lyiw05V4hFzjcOL4tLEEKBIM7Az_bwJpdIXkPKsCC7IAC/pub?gid=1915481990&single=true&output=csv",
         a;
 
     Promise.all([d3.csv(urlEtu),d3.csv(urlProj)]).then(responses=>{
         console.log(responses);
+        dataEtu = responses[0];
         a = new auth(pa);
         //création des items ddProjets
         d3.select('#ddProjets').selectAll('li').data(responses[1]).enter()
@@ -95,7 +96,8 @@
         {'label':'Image du diagramme','path': '/bdd/bdd.svg'},
         {'label':'Script de création de la base','path': '/bdd/bdd.sql'},
         {'label':'Vocabulaire du projet','path': '/bdd/vocab.ttl'},
-        {'label':'Ressource template','path': '/bdd/rt/'}
+        {'label':'Ressource template','path': '/bdd/rt/'},
+        {'label':'Stats OMK','path': 'statsOmk.html'}
        ],
         ulTravaux = contD.append('ul');
         ulTravaux.selectAll('li').data(listeTravaux).enter().append('li')
@@ -106,6 +108,7 @@
     }
 
     function showContributors(contributors){
+        addEtuData(contributors);
         //supression des anciens contributeurs
         d3.select('#cardEtus').selectAll('div').remove();
         //création des carte de contributeurs
@@ -115,12 +118,23 @@
         //ajout de l'image
         cards.append('img').attr('src',d=>d.avatar_url).attr('class',"card-img-top");
         //ajout du body
-        let body = cards.append('div').attr('class',"card-body");
-        body.append('h5').attr('class',"card-title").text(d=>d.login);
-        body.append('p').attr('class',"card-text").text(d=>"description du projet");
+        let body = cards.append('div')        
+          .attr('class',"card-body")
+          .attr('id',d=>'github_'+d.login);
+        body.append('h5').attr('class',"card-title").text(d=>d.login+' = '+d.dataEtu['Votre prénom']+' '+d.dataEtu['Votre nom']);
+        body.append('p').attr('class',"card-text").text(d=>d.dataEtu['N° étudiant']);
         //ajout du footer
         cards.append('div').attr('class',"card-footer")
-            .append('small').attr('class','text-body-secondary').text('lien vers le projet');
+            .append('small').attr('class','text-body-secondary').text(d=>d.dataEtu['Votre mail']);
+    }
+
+    function addEtuData(contributors){
+      contributors.forEach(c=>{
+        //récupère les données du formulaire
+        let rs = dataEtu.filter(e=>e['Votre compte GitHub']==c.login);
+        if(!rs.length)console.log('ERREUR : PAS de login GitHub :'+c.login)
+        else c.dataEtu = rs[0];
+      })
     }
 
     /*usage de l'api github :https://docs.github.com/fr/rest/repos/contents?apiVersion=2022-11-28
