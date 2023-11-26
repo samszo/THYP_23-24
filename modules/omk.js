@@ -46,12 +46,10 @@ export class omk {
             data.forEach(c=>me.class.push(c));
             if(cb)cb(data);
         }
-
         this.getClassByName = function (cl){
             let c = me.class.filter(c=>c['o:label'].toLowerCase()==cl.toLowerCase());
             return c[0];
         }
-
         this.getRandomItemByClass = function (cl, cb=false){
             let url;
             try {
@@ -83,14 +81,16 @@ export class omk {
                 })
             })
         }
-
         this.getItem = function (id, cb=false){
             let url = me.api+'items/'+id,
                 rs = syncRequest(url);
             if(cb)cb(rs);                    
             return rs;
         }
-
+        
+        this.getItemAdminLink = function(item){
+            return me.api.replace("/api/","/admin/item/")+item['o:id'];
+        }
         //merci à https://stackoverflow.com/questions/33780271/export-a-json-object-to-a-text-file/52297652#52297652
         this.saveJson=function(data){
             const filename = 'data.json';
